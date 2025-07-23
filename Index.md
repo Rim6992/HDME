@@ -14,7 +14,7 @@
 | ------------- |:-------------:|
 | Alexandrie    | Saïs          | 
 | Fayoum        | Tell el Daba'a|
-| Heliopolis    | Thébes        |
+| Hermopolis    | Thébes        |
 
 
 ```
