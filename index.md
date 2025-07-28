@@ -22,6 +22,7 @@ let message = 'Hello world';
 alert(message);
 
 ## example of a web map from OpenGulf
+
 <iframe style='width: 289px; height: 220px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=frank'></iframe>
 
 Pearling industry web map (OpenGulf)
